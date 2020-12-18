@@ -13,3 +13,6 @@ moving one west is xInt-1
 
 todo:
     -castling
+    -check/checkmate
+    -initialize piece properly
+    -AI
