@@ -16,3 +16,4 @@ todo:
     -check/checkmate
     -initialize piece properly
     -AI
+    -Refactor/Break up Chess.java
