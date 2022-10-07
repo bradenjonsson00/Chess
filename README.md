@@ -1,4 +1,12 @@
-MOVEMENT
+<img src="https://user-images.githubusercontent.com/61176938/194627841-3259fe80-e078-41ac-9115-ea8906557f99.png" width="500" height="375">
+
+
+How to Compile and Run
+---
+Compile: &nbsp; javac *.java  
+Run: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java Chess.java
+
+Movement
 ---
 Moving one north is xInt-1.  
 Moving one south is xInt+1.  
