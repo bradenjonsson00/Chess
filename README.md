@@ -1,10 +1,15 @@
 <img src="https://user-images.githubusercontent.com/61176938/194627841-3259fe80-e078-41ac-9115-ea8906557f99.png" width="500" height="375">
 
 
-How to Compile and Run
+Running the Program in 7 Easy Steps
 ---
-Compile: &nbsp; javac *.java  
-Run: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java Chess.java
+1. [Install the JRE](https://docs.oracle.com/goldengate/1212/gg-winux/GDRAD/java.htm#BGBFJHAB)
+2. Download the chess folder
+3. Open it in file explorer
+4. Unzip it
+5. Open the unzipped folder in terminal
+6. Compile: &nbsp; javac *.java  
+7. Run: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java Chess.java
 
 Movement
 ---
