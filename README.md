@@ -1,8 +1,19 @@
+# Java Chess
+
+## Introduction
+
+In this repository you will find the code to a Chess game, written in the Java programming language.  
+This was an excercise to familiarize myself with creating a GUI in Java, using the packages AWT and Swing.  
+Thanks to Javatpoint tutorials.  
+https://www.javatpoint.com/java-awt  
+https://www.javatpoint.com/java-swing  
+
+
 <img src="https://user-images.githubusercontent.com/61176938/194627841-3259fe80-e078-41ac-9115-ea8906557f99.png" width="500" height="375">
 
 
-Running the Program in 7 Easy Steps
----
+## Running the Program in 7 Easy Steps
+
 1. [Install the JRE](https://docs.oracle.com/goldengate/1212/gg-winux/GDRAD/java.htm#BGBFJHAB)
 2. Download the chess folder
 3. Open it in file explorer
@@ -11,12 +22,12 @@ Running the Program in 7 Easy Steps
 6. Compile: &nbsp; javac *.java  
 7. Run: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java Chess.java
 
-Movement
----
-Moving one north is xInt-1.  
-Moving one south is xInt+1.  
-Moving one east is yInt+1.  
-Moving one west is xInt-1.  
+## Movement
+
+Moving one space north is xInt-1.  
+Moving one space south is xInt+1.  
+Moving one space east is yInt+1.  
+Moving one space west is xInt-1.  
 
 Thus the board matrix can be represented like this:  
 00 01 02 03 04 05 06 07  
